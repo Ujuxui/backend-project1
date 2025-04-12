@@ -21,4 +21,4 @@ Express, Node.js, Nodemon, MongoDB, Mongoose, ES Modules, Thunder Client, Middle
 ## Run the application -
 Clone the repository using git clone https://github.com/Ujuxui/backend-project1.git
 
-Then run the app using npx --save-dev nodemon after installing the dependencies (npm install).
+Then run the app using *npx --save-dev nodemon* after installing the dependencies (npm install).
