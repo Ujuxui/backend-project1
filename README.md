@@ -1,8 +1,17 @@
 # README file: Backend Project
 
 **Build APIs with Node.js and Express.js for Shoppyglobe E-commerce**
+
 Here's a backend for an e-commerce platform, ShoppyGlobe, built using Node.js, Express, and MongoDB. 
-This project includes essential features like **CRUD operations, MongoDB database, RESTful API, product and cart management, JWT-based authentication, error handling and middleware for request logging and error handling**.
+
+This project includes essential features like 
+**CRUD operations,
+MongoDB database,
+RESTful API,
+product and cart management, 
+JWT-based authentication, 
+error handling and 
+middleware for request logging**.
 
 This project is fitted in MVC architecture.
 
